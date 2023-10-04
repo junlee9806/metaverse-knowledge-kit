@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '메타버스 지식 키트',
+  title: '메타버스 지식 키트-한글버전',
   tagline: 'Seamlessly build your Metaverse on Jun Lee',
   //@ts-ignore
   url: process.env.URL,
